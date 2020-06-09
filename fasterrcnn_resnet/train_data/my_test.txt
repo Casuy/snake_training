@@ -1,0 +1,1 @@
+/Users/casuy/Downloads/Research-project/final/FasterRCNN-resnet-tf2.0/images/1.jpg,0,0,462,266,EasternBrownSnake
